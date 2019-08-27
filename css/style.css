@@ -32,6 +32,13 @@ body {
   visibility: hidden;
 }
 
+.personal-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
